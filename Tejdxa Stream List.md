@@ -1,10 +1,6 @@
-<head>  
-<title>Tejdxa Stream List</title>
-</head>
+# Tejdxa
 
 # Tejdxa Stream List
-
-<a href="./">Go Back</a>
 
 ``` 
 TODO:
