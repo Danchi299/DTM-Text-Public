@@ -1,6 +1,5 @@
 <head>  
 <title>DTM Text Files</title>
-<link rel="stylesheet" href="styles/dark.css">  
 </head>
 <body>
 
