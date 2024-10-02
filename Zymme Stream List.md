@@ -1,10 +1,25 @@
 # Things to Stream (Games then Shows):
+	
+	[Current]
+	Ori and the Will of the Wisps
 
-	Ori and the Will of the Wisp
-	Dust: an Elysian Tail
+ 	[On Hold]
+	Hyperdimension Neptunia Re;Birth1	
 
+	[Probably Start]
+	
+
+	[Maybe Start]
+	Dust: An Elysian Tail
+	Doom Eternal
+	Subnautica: Below Zero
+	
  	Avatar the Last Airbender
-  
- # Cancelled:
+
+	[Unlikely Start]
+
+
+
+# Cancelled:
 
 	Bee Magic [no more sokobans pls]
