@@ -1,4 +1,4 @@
-<a href="./index">Go Back</a>
+<a href="./">Go Back</a>
 
 ``` 
 TODO:
