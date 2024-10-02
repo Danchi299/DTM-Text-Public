@@ -5,7 +5,7 @@
 
 # Tejdxa Stream List
 
-<a href="./">Go Back</a>
+<a href="./index.md">Go Back</a>
 
 ``` 
 TODO:
