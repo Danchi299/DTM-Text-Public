@@ -8,7 +8,7 @@
 		Root
 		Necesse
 		Maidens and Spells
-		Sabnautica
+		Subnautica
 		Astroneer
 		Stationeer
 		Satisfactory
