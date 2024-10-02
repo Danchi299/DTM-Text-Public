@@ -1,6 +1,5 @@
 <head>  
 <title>Tejdxa Stream List</title>
-<link rel="stylesheet" href="styles/dark.css">  
 </head>
 
 # Tejdxa Stream List
