@@ -1,5 +1,6 @@
 # In _config.yml
 # theme: minima
+title: DTM Text Files
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme

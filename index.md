@@ -1,6 +1,4 @@
-<head>  
-<title>DTM Text Files</title>
-</head>
+
 <body>
 
 Hello, World! <br>
