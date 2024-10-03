@@ -1,5 +1,9 @@
 # Zymme
 
+<head> 
+<link rel="shortcut icon" type="image/x-icon" href="favicon.png?">
+</head>
+
 # Things to Stream (Games then Shows):
 	
 	[Current]

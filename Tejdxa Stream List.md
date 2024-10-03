@@ -1,5 +1,9 @@
 # Tejdxa
 
+<head> 
+<link rel="shortcut icon" type="image/x-icon" href="favicon.png?">
+</head>
+
 # Tejdxa Stream List
 
 ``` 
