@@ -19,7 +19,6 @@
 		Stationeer
 		Satisfactory
 		Cat Quest 2/3
-	
 		Cave Story Multiplayer
 		Nemesis
 		Subnautica
@@ -28,19 +27,19 @@
 		Baulders Gate 3
 		Planet Centari
 		Mindustry
-		Secrets of Grindea (Co-op)
-		Mining Mechs
+		Secrets of Grindea
 		Battleblock Theater
+		Astroneer 
 	
 	Complete:
-		
+		 Mining Mechs (OS)
 # Tejdxa
 
 	Currently Playing:
 		None
 	
 	Pending:
-		Secrets of Grindea (Co-op)
+		Secrets of Grindea
 		Root
 		Mindustry
 		Astroneer
@@ -52,4 +51,4 @@
 		Battleblock Theater
 	
 	Complete:
-		
+		Astroneer
