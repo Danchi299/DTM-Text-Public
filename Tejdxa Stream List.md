@@ -5,11 +5,6 @@
 </head>
 
 # Tejdxa Stream List
-
-``` 
-TODO:
-- get timestamps for games finishing to sort by date
-```
 # Currently playing
 
 	Hotline Miami 2
@@ -146,7 +141,6 @@ TODO:
 	Shantae: 7 Sirens
 	Fez (no)
 	My Friend Pedro (OS)
-	Astroneer (CO-OP)
 	Rhythm Doctor
 	Katana Zero
 	Momodora Up to The Moonlight
@@ -169,3 +163,12 @@ TODO:
 	Friday Night Funkin
 	Mr Shifty
 	Hyperfight (OS)
+
+# Notes
+
+```
+OS (OneShot) - Designed to be streamed only a few times and not fully. Can be moved from Incomplete to Complete whenever you want 
+
+TODO:
+- get timestamps for games finishing to sort by date
+```
