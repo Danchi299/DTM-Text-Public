@@ -1,10 +1,7 @@
-
 # Games
-
 <head> 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.png?">
 </head>
-
 # Zymme
 
 	Currently Playing:
@@ -17,6 +14,7 @@
 		Subnautica
 		Astroneer
 		Stationeer
+		Cosmoteer
 		Satisfactory
 		Cat Quest 2/3
 		Cave Story Multiplayer
