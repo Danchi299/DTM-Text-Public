@@ -4,28 +4,47 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.png?">
 </head>
 
-# Things to Stream (Games then Shows):
+# Stream (Games then Shows):
+
+	[Active]
 	
-	[Current]
-	Ori and the Will of the Wisps
-
- 	[On Hold]
-	Hyperdimension Neptunia Re;Birth1	
-
+		Ori and the Will of the Wisps
+	 
+	[On Hold]
+	
+		Hyperdimension Neptunia Re;Birth1	
+	
 	[Probably Start]
 	
-
-	[Maybe Start]
-	Dust: An Elysian Tail
-	Doom Eternal
-	Subnautica: Below Zero
+		 None
 	
- 	Avatar the Last Airbender
-
+	[Maybe Start]
+	
+		Dust: An Elysian Tail
+		Doom Eternal
+		Subnautica: Below Zero
+		
+		Avatar the Last Airbender
+	
 	[Unlikely Start]
-
-
-
-# Cancelled:
-
-	Bee Magic [no more sokobans pls]
+	
+		None
+	
+	[Never Start]
+	
+		None
+	
+	 [Cancelled]
+	
+		Bee Magic [no more sokobans pls]
+		Baba is You (?)
+	
+	 [Suggested]
+	 
+		Leaf's Odyssey
+		Freedom Planet (1+2)
+		Shapez 2
+	
+	[Comeplete]
+	
+		Quadrilateral Cowboy
