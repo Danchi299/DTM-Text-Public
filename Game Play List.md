@@ -5,12 +5,13 @@
 # Zymme
 
 	Currently Playing:
-		None
+		Root
+		Maiden and Spell
+		Rabbit and Steel
 	
 	  Pending:
-		Root
+		Rimworld
 		Necesse
-		Maidens and Spells
 		Subnautica
 		Astroneer
 		Stationeer
@@ -18,19 +19,24 @@
 		Satisfactory
 		Cat Quest 2/3
 		Cave Story Multiplayer
-		Nemesis
-		Subnautica
+		Stardew Board Game
+		Stardew Valley
+		Minecraft [need modpack names]
 	
 	Incomplete:
 		Baulders Gate 3
 		Planet Centari
 		Mindustry
-		Secrets of Grindea
 		Battleblock Theater
 		Astroneer 
+		Subnautica
+	
+	Cancelled:
+		Secrets of Grindea [he bad control]
 	
 	Complete:
 		 Mining Mechs (OS)
+		 Nemesis (OS)
 # Tejdxa
 
 	Currently Playing:
