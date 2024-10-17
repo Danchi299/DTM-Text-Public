@@ -2,28 +2,26 @@
 <head> 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.png?">
 </head>
-# Zymme
+# Zymme n Danchi
 
 	Currently Playing:
-		Root
-		Maiden and Spell
-		Rabbit and Steel
+		Mindustry
 	
 	  Pending:
 		Rimworld
 		Necesse
-		Subnautica
-		Astroneer
 		Stationeer
-		Cosmoteer
 		Satisfactory
 		Cat Quest 2/3
 		Cave Story Multiplayer
 		Stardew Board Game
-		Stardew Valley
 		Minecraft [need modpack names]
 	
 	Incomplete:
+		Subnautica
+		Stardew Valley
+		Cosmoteer
+		Astroneer
 		Baulders Gate 3
 		Planet Centari
 		Mindustry
@@ -35,9 +33,12 @@
 		Secrets of Grindea [he bad control]
 	
 	Complete:
+		Root
+		Maiden and Spell
+		Rabbit and Steel
 		 Mining Mechs (OS)
 		 Nemesis (OS)
-# Tejdxa
+# Tejdxa n Danchi
 
 	Currently Playing:
 		None
