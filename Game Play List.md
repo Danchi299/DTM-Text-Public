@@ -5,7 +5,7 @@
 # Zymme n Danchi
 
 	Currently Playing:
-		Mindustry
+		Factorio: Space Age
 	
 	  Pending:
 		Rimworld
@@ -16,8 +16,10 @@
 		Cave Story Multiplayer
 		Stardew Board Game
 		Minecraft [need modpack names]
+		Minecraft (Stoneblock)
 	
 	Incomplete:
+		Mindustry
 		Subnautica
 		Stardew Valley
 		Cosmoteer
@@ -38,6 +40,9 @@
 		Rabbit and Steel
 		 Mining Mechs (OS)
 		 Nemesis (OS)
+	
+	Suggested:
+		Minecraft (Reign of Nether)
 # Tejdxa n Danchi
 
 	Currently Playing:
