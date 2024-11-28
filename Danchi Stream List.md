@@ -70,6 +70,7 @@
 	Twokinds (Part 21-22)
 	Slightly Damned (Ch 11)
 	Syrup RPG (?)
+ 	Mina the Hollower
 	Katana Zero DLC (?)
 
 
@@ -90,6 +91,7 @@
 
 # Complete
 
+	Chants of Sennaar
 	Adrien Detricks on Itch.io (OS)
 	Sam and Max (Beyond Time and Space) (OS)
 	CrossCode
