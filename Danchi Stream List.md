@@ -7,7 +7,7 @@
 # Tejdxa Stream List
 # Currently playing
 
-	Hotline Miami 2
+	Go Go Jump
 
 # Coming up next
 
@@ -70,12 +70,13 @@
 	Twokinds (Part 21-22)
 	Slightly Damned (Ch 11)
 	Syrup RPG (?)
- 	Mina the Hollower
+	Mina the Hollower
 	Katana Zero DLC (?)
 
 
 # Incomplete
 
+	Hotline Miami 2
 	</reality> [not our cup of tea]
 	Not For Boardcast [Not Enough Processing Power]
 	Starcraft: Mass Recall [kinda boring]
