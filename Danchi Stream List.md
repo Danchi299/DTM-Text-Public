@@ -7,11 +7,12 @@
 # Tejdxa Stream List
 # Currently playing
 
-	Go Go Jump
+	Treat Series Side Endings
 
 # Coming up next
 
-	 None
+	 SQL Murder Mystery (OS)
+	 Doki Doki Literature Club
 
 # Pending
 
@@ -22,7 +23,6 @@
 	Dungeons of Ather (?)
 	Until Then [DDLC but different]
 	She-ra and the Princesses of Power (OS)
-	Doki Doki Literature Club
 	Momodora Moonlits Farewell
 	Parappa (1/2)
 	Ratchet and Clank (Rift Apart)
@@ -76,9 +76,10 @@
 
 # Incomplete
 
+	Go Go Jump [Not Enough Processing Power - Lap]
 	Hotline Miami 2
 	</reality> [not our cup of tea]
-	Not For Boardcast [Not Enough Processing Power]
+	Not For Boardcast [Not Enough Processing Power - Desk]
 	Starcraft: Mass Recall [kinda boring]
 	Pyre [really long]
 	Hack 'n' Slash [kinda hard to manage]
