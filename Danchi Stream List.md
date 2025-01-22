@@ -10,13 +10,14 @@
 	Treat Series Side Endings
 
 # Coming up next
-
-	 SQL Murder Mystery (OS)
-	 Doki Doki Literature Club
-
+    None
+	 
 # Pending
 
 	Random Itch Games [The Endless List]
+	The Twelve Slot Saloon [Everhood Undertale]
+	SQL Murder Mystery (OS)
+	Doki Doki Literature Club
 	Cassettle Beasts [Pokemon]
 	Bug Fables [Paper Mario but new]
 	Tactical Breach Wizard 
