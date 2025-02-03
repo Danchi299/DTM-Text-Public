@@ -15,6 +15,7 @@
 # Pending
 
 	Random Itch Games [The Endless List]
+	Box Breaking HL2 Mod (OS)
 	The Twelve Slot Saloon [Everhood Undertale]
 	SQL Murder Mystery (OS)
 	Doki Doki Literature Club
