@@ -15,6 +15,8 @@
 # Pending
 
 	Random Itch Games [The Endless List]
+	Arzette: The Jewel of Faramore
+ 	ENA: Dream BBQ
 	Box Breaking HL2 Mod (OS)
 	The Twelve Slot Saloon [Everhood Undertale]
 	SQL Murder Mystery (OS)
