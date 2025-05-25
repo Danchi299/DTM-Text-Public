@@ -7,16 +7,16 @@
 # Tejdxa Stream List
 # Currently playing
 
-	Treat Series Side Endings
+	None
 
 # Coming up next
-    None
+
+    Treat Series Side Endings
 	 
 # Pending
 
 	Random Itch Games [The Endless List]
 	Arzette: The Jewel of Faramore
- 	ENA: Dream BBQ
 	Box Breaking HL2 Mod (OS)
 	The Twelve Slot Saloon [Everhood Undertale]
 	SQL Murder Mystery (OS)
@@ -76,6 +76,7 @@
 	Syrup RPG (?)
 	Mina the Hollower
 	Katana Zero DLC (?)
+	ENA: Dream BBQ (Other chapters)
 
 
 # Incomplete
@@ -97,6 +98,7 @@
 
 # Complete
 
+	ENA: Dream BBQ (Chapter 1)
 	Chants of Sennaar
 	Adrien Detricks on Itch.io (OS)
 	Sam and Max (Beyond Time and Space) (OS)
