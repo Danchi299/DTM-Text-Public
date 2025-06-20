@@ -15,6 +15,7 @@
 
 # Pending
 
+	Ace Attourney Games
 	Deltarune (Ch 3-4)
 	Arzette: The Jewel of Faramore
 	Box Breaking HL2 Mod (OS)
