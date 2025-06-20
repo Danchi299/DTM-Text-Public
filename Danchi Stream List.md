@@ -7,23 +7,22 @@
 # Tejdxa Stream List
 # Currently playing
 
-	None
+	 Doki Doki Literature Club
 
 # Coming up next
 
-    Treat Series Side Endings
-	 
+    None
+
 # Pending
 
-	Random Itch Games [The Endless List]
+	Deltarune (Ch 3-4)
 	Arzette: The Jewel of Faramore
 	Box Breaking HL2 Mod (OS)
 	The Twelve Slot Saloon [Everhood Undertale]
 	SQL Murder Mystery (OS)
-	Doki Doki Literature Club
+	Treat Series Side Endings (Genocide done)
 	Cassettle Beasts [Pokemon]
 	Bug Fables [Paper Mario but new]
-	Tactical Breach Wizard 
 	Dungeons of Ather (?)
 	Until Then [DDLC but different]
 	She-ra and the Princesses of Power (OS)
@@ -64,13 +63,14 @@
 	Singularity 
 	Time Shift 
 	Spider-Man Games
+	Random Itch Games [The Endless List, Multi-Shot]
 
 
 # Not Out
 
 	Treat Series (Ch 8 Part 2, Epilogue)
 	Freedom Planet Sidequel (Torque and Spade)
-	Deltarune (Ch 3-7)
+	Deltarune (Ch 5-7)
 	Twokinds (Part 21-22)
 	Slightly Damned (Ch 11)
 	Syrup RPG (?)
@@ -98,6 +98,7 @@
 
 # Complete
 
+	Tactical Breach Wizard
 	ENA: Dream BBQ (Chapter 1)
 	Chants of Sennaar
 	Adrien Detricks on Itch.io (OS)
