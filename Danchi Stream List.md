@@ -7,7 +7,7 @@
 # Tejdxa Stream List
 # Currently playing
 
-	 Doki Doki Literature Club
+	None
 
 # Coming up next
 
@@ -15,6 +15,7 @@
 
 # Pending
 
+	Suckers For Love (1/2)
 	Ace Attourney Games
 	Deltarune (Ch 3-4)
 	Arzette: The Jewel of Faramore
@@ -99,6 +100,7 @@
 
 # Complete
 
+	Doki Doki Literature Club (Basegame)
 	Tactical Breach Wizard
 	ENA: Dream BBQ (Chapter 1)
 	Chants of Sennaar

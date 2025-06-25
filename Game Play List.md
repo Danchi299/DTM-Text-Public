@@ -43,6 +43,21 @@
 	
 	Suggested:
 		Minecraft (Reign of Nether)
+
+	Unsorted:
+		Factorio Fun Mod 
+		Door Kickers 2 
+		Hot Brass 
+		Split Fantasy 
+		CraftMine 
+		Baulders Gate 3 
+		Stationeer 
+		Satisfactory 
+		Cat Quest 2/3 
+		Planet Centari 
+		Cave Story Multiplayer 
+		Mindustry 
+		Animal Royale 
 # Tejdxa n Danchi
 
 	Currently Playing:

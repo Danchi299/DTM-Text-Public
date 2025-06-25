@@ -8,11 +8,11 @@
 
 	[Active]
 	
-		Ori and the Will of the Wisps
+		None
 	 
 	[On Hold]
 	
-		Hyperdimension Neptunia Re;Birth1	
+		Hyperdimension Neptunia Re;Birth1	[Needs info]
 	
 	[Probably Start]
 	
@@ -20,7 +20,7 @@
 	
 	[Maybe Start]
 	
-		Dust: An Elysian Tail
+		
 		Doom Eternal
 		Subnautica: Below Zero
 		
@@ -36,6 +36,7 @@
 	
 	 [Cancelled]
 	
+		Dust: An Elysian Tail [Not a fan]
 		Bee Magic [no more sokobans pls]
 		Baba is You (?)
 	
@@ -47,4 +48,5 @@
 	
 	[Comeplete]
 	
+		Ori and the Will of the Wisps
 		Quadrilateral Cowboy
