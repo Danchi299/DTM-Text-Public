@@ -7,14 +7,16 @@
 # Tejdxa Stream List
 # Currently playing
 
-	None
+	Tunic
 
 # Coming up next
 
-    None
+    I wanna beat the games(?)
+    Hollow Knight: Silksong
 
 # Pending
 
+	Pseudoregalia
 	Suckers For Love (1/2)
 	Ace Attourney Games
 	Deltarune (Ch 3-4)
