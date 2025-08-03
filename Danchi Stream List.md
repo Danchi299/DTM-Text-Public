@@ -8,26 +8,25 @@
 # Currently playing
 
 	Tunic
+ 	I wanna beat the games (OS)
 
 # Coming up next
 
-    I wanna beat the games(?)
     Hollow Knight: Silksong
+    Suckers For Love (1/2)
+    Deltarune (Ch 3-4)
+    Box Breaking HL2 Mod (OS)
+    Bug Fables [Paper Mario but new]
 
 # Pending
 
 	Pseudoregalia
-	Suckers For Love (1/2)
 	Ace Attourney Games
-	Deltarune (Ch 3-4)
 	Arzette: The Jewel of Faramore
-	Box Breaking HL2 Mod (OS)
 	The Twelve Slot Saloon [Everhood Undertale]
 	SQL Murder Mystery (OS)
 	Treat Series Side Endings (Genocide done)
 	Cassettle Beasts [Pokemon]
-	Bug Fables [Paper Mario but new]
-	Dungeons of Ather (?)
 	Until Then [DDLC but different]
 	She-ra and the Princesses of Power (OS)
 	Momodora Moonlits Farewell
@@ -102,6 +101,7 @@
 
 # Complete
 
+	Dungeons of Ather (OS)
 	Doki Doki Literature Club (Basegame)
 	Tactical Breach Wizard
 	ENA: Dream BBQ (Chapter 1)
