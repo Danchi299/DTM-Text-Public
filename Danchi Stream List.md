@@ -9,9 +9,11 @@
 
 	Tunic
  	I wanna beat the games (OS)
+  	Liminal Industries (Coop)
 
 # Coming up next
 
+    Hat in Time (Coop)
     Hollow Knight: Silksong
     Suckers For Love (1/2)
     Deltarune (Ch 3-4)
