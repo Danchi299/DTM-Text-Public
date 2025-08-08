@@ -9,15 +9,15 @@
 	  Pending:
 		Clandestine [Tej]
 		Rimworld [Tej]
-		Necesse [Tej]
-		Planet Centari [Tej]
+		Necesse [Tej, Zym]
+		Planet Centari [Tej, Zym]
 		Minecraft (Reign of Nether)
 		Mindustry [Tej]
 		Animal Royale (OS)
 		Hot Brass [Tej]
 		Secrets of Grindea [Tej]
-		Core Keeper
-		Hat in Time (Tej)
+		Core Keeper [Yej, Zym]
+		Hat in Time [Tej, Zym]
 		Stationeer
 		Satisfactory
 		Cat Quest 2/3
