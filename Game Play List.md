@@ -17,7 +17,7 @@
 		Hot Brass [Tej]
 		Secrets of Grindea [Tej]
 		Core Keeper
-	    Hat in Time (Tej)
+		Hat in Time (Tej)
 		Stationeer
 		Satisfactory
 		Cat Quest 2/3
