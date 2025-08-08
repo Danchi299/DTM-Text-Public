@@ -8,7 +8,7 @@
 # Currently playing
 
 	-Tunic
- 	-I wanna beat the games (OS)
+	-I wanna beat the games (OS)
 
 # Coming up next
 
