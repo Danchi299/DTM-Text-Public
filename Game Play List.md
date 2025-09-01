@@ -2,24 +2,41 @@
 <head> 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.png?">
 </head>
-# Zymme n Danchi
 
 	Currently Playing:
-		Factorio: Space Age
+		Minecraft - Liminal Industries
 	
 	  Pending:
-		Rimworld
-		Necesse
+		Clandestine [Tej]
+		Rimworld [Tej]
+		Necesse [Tej, Zym]
+		Planet Centari [Tej, Zym]
+		Minecraft (Reign of Nether)
+		Mindustry [Tej]
+		Animal Royale (OS)
+		Hot Brass [Tej]
+		Secrets of Grindea [Tej]
+		Core Keeper [Yej, Zym]
+		Hat in Time [Tej, Zym]
 		Stationeer
 		Satisfactory
 		Cat Quest 2/3
-		Cave Story Multiplayer
+		Cave Story Multiplayer 
 		Stardew Board Game
 		Minecraft [need modpack names]
 		Minecraft (Stoneblock)
 	
 	Incomplete:
-		Mindustry
+		Factorio: Space Age
+		Secrets of Grindea [Zym, he bad control]
+		Planet Centari [Zym]
+		Cat Quest 2/3 
+		Stationeer
+		Baulders Gate 3 
+		Split Fantasy
+		Factorio Fun Mod 
+		Door Kickers 2
+		Mindustry (Zym)
 		Subnautica
 		Stardew Valley
 		Cosmoteer
@@ -31,49 +48,15 @@
 		Astroneer 
 		Subnautica
 	
-	Cancelled:
-		Secrets of Grindea [he bad control]
-	
 	Complete:
-		Root
-		Maiden and Spell
-		Rabbit and Steel
-		 Mining Mechs (OS)
-		 Nemesis (OS)
-	
-	Suggested:
-		Minecraft (Reign of Nether)
+		Creeper World 3 [+Zym, -Tej]
+		Slay the Spite (TableTop, OS)
+		CraftMine (OS)
+		Root (OS)
+		Maiden and Spell (OS)
+		Rabbit and Steel (Hard)
+		Mining Mechs (OS)
+		Nemesis (OS)
 
-	Unsorted:
-		Factorio Fun Mod 
-		Door Kickers 2 
-		Hot Brass 
-		Split Fantasy 
-		CraftMine 
-		Baulders Gate 3 
-		Stationeer 
-		Satisfactory 
-		Cat Quest 2/3 
-		Planet Centari 
-		Cave Story Multiplayer 
-		Mindustry 
-		Animal Royale 
-# Tejdxa n Danchi
-
-	Currently Playing:
-		None
-	
-	Pending:
-		Secrets of Grindea
-		Root
-		Mindustry
-		Astroneer
-		Stationeer
-		Terraria
-		Nemesis
-	
-	Incomplete:
-		Battleblock Theater
-	
-	Complete:
-		Astroneer
+	Unsorted:     
+		Pass

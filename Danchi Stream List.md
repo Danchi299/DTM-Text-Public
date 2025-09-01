@@ -12,22 +12,24 @@
 
 # Coming up next
 
-    Hollow Knight: Silksong
+    +Suckers For Love (1/2)
+    +Deltarune (Ch 3-4)
 
 # Pending
-
-	Pseudoregalia
-	Suckers For Love (1/2)
+	
+    Bug Fables [Paper Mario but new]
+	Half Life 2
+	+Sam and Max (from the start, then Beyond Time and Space)
+	-Anomaly Collapse (OS)
+	=Gunpoint
+    -Box Breaking HL2 Mod (OS)
+	=Pseudoregalia
 	Ace Attourney Games
-	Deltarune (Ch 3-4)
 	Arzette: The Jewel of Faramore
-	Box Breaking HL2 Mod (OS)
 	The Twelve Slot Saloon [Everhood Undertale]
 	SQL Murder Mystery (OS)
 	Treat Series Side Endings (Genocide done)
 	Cassettle Beasts [Pokemon]
-	Bug Fables [Paper Mario but new]
-	Dungeons of Ather (?)
 	Until Then [DDLC but different]
 	She-ra and the Princesses of Power (OS)
 	Momodora Moonlits Farewell
@@ -40,16 +42,15 @@
 	Lingo
 	Firewatch
 	Unbound: Worlds Apart
-	Creeper World 3
+    -Hollow Knight: Silksong
 	Shantae (Much More Of It)
 	Postal 2
 	Devil's Atterney
 	South Park Games
 	Virgo Versus the Zodiac
-	Do NOT Escape
+	Do NOT Escape Series
 	I Love You, Colonel Sanders! A Finger Lickin’ Good Dating Simulator (OS?)
-	Dustforce (OS?)
-	Hyperballoid 2 (OS)
+	Dustforce (OS)
 	Touhou (?)
 	Yume Nikki
 	Webbed
@@ -95,6 +96,7 @@
 	Shantae: Half Genie Hero [3rd stage]
 	Rabi Ribi (Story Mode) [Before Final Encounters]
 	Dog World [Barely did anything]
+	Fez (no)
 	Comics:
 		Magicka: The Ninth Element
 		The Legend of Buwaro: Soprano of Time (OS)
@@ -102,15 +104,15 @@
 
 # Complete
 
-	Doki Doki Literature Club (Basegame)
-	Wizard with a Gun (3P Coop)
-	Tactical Breach Wizard
+	Hyperballoid 2 (OS)
+	-Dungeons of Ather (OS)
+	+Doki Doki Literature Club (Basegame)
+	=Tactical Breach Wizard
 	ENA: Dream BBQ (Chapter 1)
 	Chants of Sennaar
 	Adrien Detricks on Itch.io (OS)
-	Sam and Max (Beyond Time and Space) (OS)
 	CrossCode
-	Into The Breach (OS)
+	=Into The Breach (OS)
 	The Wizard Ran (Season 1)
 	Twokinds (Part 20)
 	A Hat in Time (OS?)
@@ -118,15 +120,15 @@
 	Slightly Damned (Ch 10)
 	The Murder of Sonic the Hedgehog
 	Scott Pilgrim VS The World (OS)
-	HI-FI Rush
-	Ori and all of the Games
+	+HI-FI Rush
+	+Ori and all of the Games
 	RainWorld (OS?)
 	Unepic (OS?)
 	Lodoss War: Deedlit in Wonder Labyrinth
-	Card Shark
-	Iconoclast
-	Bug Snax
-	Freedom Planet 2
+	+Card Shark
+	(S)Iconoclast
+	=Bug Snax
+	=Freedom Planet 2
 	NomNomNami:
 		Charm Studies
 		Astra Garden
@@ -139,15 +141,15 @@
 		Treat Series (Ch 7)
 		Syrup and the Ultimate Sweet
 	Um Jammer Lammy
-	Axiom Verge (1+2)
-	Time Spinner
-	The Stanley Parable Ultra Delux
-	Street Figter V (Story Mode)
+	=Axiom Verge (1+2)
+	+Time Spinner
+	(S+)The Stanley Parable Ultra Delux
+	=Street Figter V (Story Mode)
 	Will You Snail
-	Quadrilateral Cowboy
+	-Quadrilateral Cowboy
 	Cave Story
 	Wildfire
-	Portal 1+2
+	=Portal 1+2
 	The Hex
 	Pony Island
 	Inscryption
@@ -156,22 +158,21 @@
 	Everhood
 	The White Laboratory (OS)
 	Shantae: 7 Sirens
-	Fez (no)
 	My Friend Pedro (OS)
 	Rhythm Doctor
-	Katana Zero
+	=Katana Zero
 	Momodora Up to The Moonlight
 	Parrapa the Rapper 2
-	OneShot
-	Woundersong
-	Rivals of Aether
-	UNITRES Dreams
-	Cluster Truck
+	+OneShot
+	+Woundersong
+	-Rivals of Aether
+	=UNITRES Dreams
+	-Cluster Truck
 	Touhou Lunar Nights
 	Grapple Force Rena
-	Freedom Planet
+	=Freedom Planet 1
 	Dreaming Sarah
-	Dust: an elysian tale
+	+Dust: an elysian tale
 	JoJoBan (OS)
 	Undertale
 	VVVVVV
@@ -189,4 +190,9 @@ OS (OneShot) - Designed to be streamed only a few times and not fully. Can be mo
 
 TODO:
 - get timestamps for games finishing to sort by date
+
+Add the story to gameplay radio
+(+-=)
+1. Danchi - If it has more story than gameplay +
+2. Tejdxa - If it has a lot of story, +. S if fell asleep
 ```
