@@ -42,6 +42,7 @@
 	Lingo
 	Firewatch
 	Unbound: Worlds Apart
+	Creeper World 3
     -Hollow Knight: Silksong
 	Shantae (Much More Of It)
 	Postal 2
