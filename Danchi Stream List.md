@@ -8,10 +8,10 @@
 # Currently playing
 
 	Tunic
+	I wanna beat the games (OS)
 
 # Coming up next
 
-    I wanna beat the games(?)
     Hollow Knight: Silksong
 
 # Pending
@@ -103,6 +103,7 @@
 # Complete
 
 	Doki Doki Literature Club (Basegame)
+	Wizard with a Gun (3P Coop)
 	Tactical Breach Wizard
 	ENA: Dream BBQ (Chapter 1)
 	Chants of Sennaar
@@ -179,6 +180,7 @@
 	Friday Night Funkin
 	Mr Shifty
 	Hyperfight (OS)
+	Astroneer (2P Coop)
 
 # Notes
 
